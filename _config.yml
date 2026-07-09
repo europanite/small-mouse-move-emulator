@@ -1,0 +1,16 @@
+title: "small-mouse-move-emulator"
+description: "small-mouse-move-emulator"
+baseurl: "/small-mouse-move-emulator"
+url: "https://europanite.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+highlighter: rouge
+
+header_pages:
+  - README.md
+
+exclude:
+  - service/reports/
