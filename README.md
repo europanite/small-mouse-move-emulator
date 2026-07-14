@@ -2,4 +2,4 @@
 
 ![OS](https://img.shields.io/badge/Windows-blue)
 
-small-mouse-move-emulator
+This application emulates a small mouse movement on Windows.
