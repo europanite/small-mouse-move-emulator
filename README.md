@@ -2,4 +2,4 @@
 
 ![OS](https://img.shields.io/badge/Windows-blue)
 
-This application emulates a small mouse movement on Windows.
+This application emulates a small mouse movement on Windows. This can just prevent screen lock. 
